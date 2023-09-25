@@ -1,0 +1,1 @@
+# strapiEtniapro-admin
