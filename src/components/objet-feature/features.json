@@ -2,11 +2,12 @@
   "collectionName": "components_objet_feature_features",
   "info": {
     "displayName": "features",
-    "icon": "bulletList"
+    "icon": "bulletList",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "feacture": {
+    "feature": {
       "type": "string"
     }
   }
