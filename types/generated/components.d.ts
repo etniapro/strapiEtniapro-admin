@@ -5,7 +5,6 @@ export interface ObjetFeatureFeatures extends Schema.Component {
   info: {
     displayName: 'features';
     icon: 'bulletList';
-    description: '';
   };
   attributes: {
     feature: Attribute.String;

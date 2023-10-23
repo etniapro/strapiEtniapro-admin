@@ -2,8 +2,7 @@
   "collectionName": "components_objet_feature_features",
   "info": {
     "displayName": "features",
-    "icon": "bulletList",
-    "description": ""
+    "icon": "bulletList"
   },
   "options": {},
   "attributes": {
